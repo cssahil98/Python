@@ -1,0 +1,12 @@
+Create a folder and put this python program inside the folder along with the video/image that you want to keep in the background
+
+1.Open Visual Studio Code
+2.and install the required modules
+3.run the program
+4.your camera will turn on automatically and the video will start playing
+5.keep pressing key 'R' and 'D' for refreshing
+
+
+note:
+inside the program put the name of of your video exactly as the same name
+and resolution should be same everywhere according to your need

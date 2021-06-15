@@ -1,0 +1,7 @@
+First go to this below link & read all descriptions that you need for this project
+https://files.grouplens.org/datasets/movielens/ml-25m-README.html
+
+
+Download other csv files from the link below
+https://grouplens.org/datasets/movielens/25m/
+
